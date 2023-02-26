@@ -20,6 +20,7 @@ import com.google.android.material.snackbar.Snackbar
  * https://github.com/eduxcellence
  * akkr2017@gmail.com
  */
+
 /* This class is responsible for observing the data from the ViewModel and updating the UI accordingly */
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
