@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidCodingChallenge</string>
+    <string name="et_acronym_hint">Type your word (min 3char)</string>
+    <string name="long_form_text">Long Form :  %s</string>
+    <string name="short_form_text">Short Form : %s</string>
+    <string name="freq_text">Freq : %s</string>
+    <string name="since_text">Since : %s</string>
+    <string name="no_result_found">No Result Found.\n\nPlease try Another Word!!!</string>
 </resources>
