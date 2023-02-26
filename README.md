@@ -3,6 +3,8 @@ Android Code Challenge is based on Kotlin and covering MVVM Pattern, Coroutines,
 
 ### SUCCESS DATA CASE
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
+
 ![Screenshot_1677443194](https://user-images.githubusercontent.com/33365906/221435726-03b4f722-f322-438f-a84b-df6e4a5d540b.png  | width=100 | height =400)
 ### ERROR HANDLING CASE
 ![Screenshot_1677443136](https://user-images.githubusercontent.com/33365906/221435728-384e549e-65f2-4702-82c6-82eadcc9c3de.png=250x250)
