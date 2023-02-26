@@ -2,13 +2,11 @@
 Android Code Challenge is based on Kotlin and covering MVVM Pattern, Coroutines, ViewBinding, LiveData,Retrofit,Unit Test Case  etc
 
 ### SUCCESS DATA CASE
-<img src="https://user-images.githubusercontent.com/33365906/221435726-03b4f722-f322-438f-a84b-df6e4a5d540b.png" width="300" height="400">
-
-![Screenshot_1677443194](https://user-images.githubusercontent.com/33365906/221435726-03b4f722-f322-438f-a84b-df6e4a5d540b.png  | width=100 | height =400)
+<img src="https://user-images.githubusercontent.com/33365906/221435726-03b4f722-f322-438f-a84b-df6e4a5d540b.png" width="240" height="400">
 ### ERROR HANDLING CASE
-![Screenshot_1677443136](https://user-images.githubusercontent.com/33365906/221435728-384e549e-65f2-4702-82c6-82eadcc9c3de.png=250x250)
+<img src="https://user-images.githubusercontent.com/33365906/221435728-384e549e-65f2-4702-82c6-82eadcc9c3de.png" width="240" height="400">
 ### NO INTERNET CONNECTION CASE
-![Screenshot_1677443077](https://user-images.githubusercontent.com/33365906/221435729-4cf57dcf-c582-4073-8544-7d317114b30f.png=250x250)
+<img src="https://user-images.githubusercontent.com/33365906/221435729-4cf57dcf-c582-4073-8544-7d317114b30f.png" width="240" height="400">
 
 ## For KotlinDocs Case use plugin : kDOCs generator
 ## For Network Library use dependency : Retrofit
